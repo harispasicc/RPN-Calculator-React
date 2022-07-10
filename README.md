@@ -1,3 +1,23 @@
+Reverse Polish Notation Calculator
+
+Project description:
+
+Reverse Polish Notation (RPN) also called post-fixed notation, is a mathematical notation of arithmetic expressions where operands (numbers) are written before the operators (\*,/,+,-)I while avoiding the use of parentheses, The RPN is primarily adapted to technical computer / electronic use and has the characteristic of avoiding the use of parentheses.
+
+Reverse Polish notation calculator is software that runs in the browser and has four basic functionalities: multiplication, division, addition, and subtraction.
+
+Project features:
+
+-Calculator.js: Contains main logic with the titel, one input and two buttons
+-index.css: Contains all CSS of the project which is responsive to Mobile, Tablet and Desktop
+
+Built with:
+
+-HTML
+-CSS
+-JS
+-React JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
